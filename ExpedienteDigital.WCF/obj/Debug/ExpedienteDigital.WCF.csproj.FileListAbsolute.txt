@@ -1,0 +1,78 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.WCF.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.WCF.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.WCF.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.SqlServer.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Newtonsoft.Json.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Negocios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Objetos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Utilitarios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\RestSharp.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Datos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\AutoMapper.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.ValueTuple.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Negocios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Negocios.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Objetos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Utilitarios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.SqlServer.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\Newtonsoft.Json.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\RestSharp.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Datos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Datos.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\AutoMapper.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\AutoMapper.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.ValueTuple.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.csprojAssemblyReference.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.csproj.CopyComplete
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.WCF.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.WCF.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.WCF.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.SqlServer.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Negocios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Objetos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Utilitarios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Logging.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Tokens.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Newtonsoft.Json.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\RestSharp.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Datos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\AutoMapper.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.ValueTuple.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Negocios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Negocios.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Objetos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Utilitarios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\EntityFramework.SqlServer.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Logging.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Microsoft.IdentityModel.Tokens.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\Newtonsoft.Json.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\RestSharp.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Datos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\ExpedienteDigital.Datos.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\AutoMapper.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\AutoMapper.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\bin\System.ValueTuple.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.csproj.CopyComplete
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WCF\obj\Debug\ExpedienteDigital.WCF.pdb

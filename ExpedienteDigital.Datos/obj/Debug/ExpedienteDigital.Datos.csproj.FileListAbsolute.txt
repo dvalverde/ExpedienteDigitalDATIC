@@ -1,0 +1,28 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Datos.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Datos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Datos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Utilitarios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.csprojAssemblyReference.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.csproj.CopyComplete
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Datos.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Datos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Datos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Utilitarios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.csproj.CopyComplete
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Datos\obj\Debug\ExpedienteDigital.Datos.pdb

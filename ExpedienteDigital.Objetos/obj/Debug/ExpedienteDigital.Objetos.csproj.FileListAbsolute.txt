@@ -1,0 +1,18 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\ExpedienteDigital.Objetos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\ExpedienteDigital.Objetos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\System.ValueTuple.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\System.ValueTuple.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.csprojAssemblyReference.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.csproj.CopyComplete
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\ExpedienteDigital.Objetos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\ExpedienteDigital.Objetos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\System.ValueTuple.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\bin\Debug\System.ValueTuple.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.csproj.CopyComplete
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Objetos\obj\Debug\ExpedienteDigital.Objetos.pdb

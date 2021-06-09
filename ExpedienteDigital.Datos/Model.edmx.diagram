@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d5b754512b3b4c289caa3be4c13fe378" Name="Diagram1">
+        <EntityTypeShape EntityType="BDModel.ActividadFortalecimiento" Width="1.5" PointX="0.75" PointY="93.625" />
+        <EntityTypeShape EntityType="BDModel.Articulo" Width="1.5" PointX="3.75" PointY="107" />
+        <EntityTypeShape EntityType="BDModel.Autor" Width="1.5" PointX="14.75" PointY="25.75" />
+        <EntityTypeShape EntityType="BDModel.AutorXActividadFortalecimiento" Width="1.5" PointX="21" PointY="65.625" />
+        <EntityTypeShape EntityType="BDModel.AutorXArticulo" Width="1.5" PointX="18" PointY="70.875" />
+        <EntityTypeShape EntityType="BDModel.AutorXCapitulo" Width="1.5" PointX="17" PointY="37.125" />
+        <EntityTypeShape EntityType="BDModel.AutorXColaboracionEvento" Width="1.5" PointX="17" PointY="40.25" />
+        <EntityTypeShape EntityType="BDModel.AutorXCursoCentroCapacitacion" Width="1.5" PointX="17" PointY="56.75" />
+        <EntityTypeShape EntityType="BDModel.AutorXDesarrolloSoftware" Width="1.5" PointX="23" PointY="53.125" />
+        <EntityTypeShape EntityType="BDModel.AutorXObraAdministrativaDesarrollo" Width="1.5" PointX="18" PointY="64.75" />
+        <EntityTypeShape EntityType="BDModel.AutorXObraArtistica" Width="1.5" PointX="20" PointY="56.125" />
+        <EntityTypeShape EntityType="BDModel.AutorXObraDidactica" Width="1.5" PointX="17" PointY="53.625" />
+        <EntityTypeShape EntityType="BDModel.AutorXOrganizacionEvento" Width="1.5" PointX="18" PointY="59.75" />
+        <EntityTypeShape EntityType="BDModel.AutorXOtraObraProfesional" Width="1.5" PointX="18" PointY="67.75" />
+        <EntityTypeShape EntityType="BDModel.AutorXParticipacionDeportiva" Width="1.5" PointX="21" PointY="69.25" />
+        <EntityTypeShape EntityType="BDModel.AutorXParticipacionDestacada" Width="1.5" PointX="20" PointY="52.75" />
+        <EntityTypeShape EntityType="BDModel.AutorXPatente" Width="1.5" PointX="24" PointY="64.125" />
+        <EntityTypeShape EntityType="BDModel.AutorXPonenciaCongreso" Width="1.5" PointX="21" PointY="59.125" />
+        <EntityTypeShape EntityType="BDModel.AutorXProyectoGraduacion" Width="1.5" PointX="23" PointY="56.125" />
+        <EntityTypeShape EntityType="BDModel.AutorXProyectoInvestigacion" Width="1.5" PointX="21" PointY="62.75" />
+        <EntityTypeShape EntityType="BDModel.AutorXPublicacion" Width="1.5" PointX="17" PointY="43.75" />
+        <EntityTypeShape EntityType="BDModel.CapacitacionInterna" Width="1.5" PointX="6.75" PointY="102.75" />
+        <EntityTypeShape EntityType="BDModel.CapacitacionProfesional" Width="1.5" PointX="12.75" PointY="51.75" />
+        <EntityTypeShape EntityType="BDModel.Capitulo" Width="1.5" PointX="9.75" PointY="50.375" />
+        <EntityTypeShape EntityType="BDModel.CitaDeAtestados" Width="1.5" PointX="12.75" PointY="54.625" />
+        <EntityTypeShape EntityType="BDModel.ColaboracionEvento" Width="1.5" PointX="0.75" PointY="54.5" />
+        <EntityTypeShape EntityType="BDModel.ColaboracionExterno" Width="1.5" PointX="12.75" PointY="99.625" />
+        <EntityTypeShape EntityType="BDModel.ComisionInstitucional" Width="1.5" PointX="0.75" PointY="5.25" />
+        <EntityTypeShape EntityType="BDModel.ConocimientoSoftware" Width="1.5" PointX="0.75" PointY="81.625" />
+        <EntityTypeShape EntityType="BDModel.CursoCentroCapacitacion" Width="1.5" PointX="6.75" PointY="87.5" />
+        <EntityTypeShape EntityType="BDModel.CursoContinuo" Width="1.5" PointX="0.75" PointY="90.625" />
+        <EntityTypeShape EntityType="BDModel.CursoLibre" Width="1.5" PointX="9.75" PointY="99.75" />
+        <EntityTypeShape EntityType="BDModel.CursoNoRemunerado" Width="1.5" PointX="12.75" PointY="57.625" />
+        <EntityTypeShape EntityType="BDModel.DesarrolloSoftware" Width="1.5" PointX="12.75" PointY="90.5" />
+        <EntityTypeShape EntityType="BDModel.Designacion" Width="1.5" PointX="0.75" PointY="87.75" />
+        <EntityTypeShape EntityType="BDModel.DireccionRangoSuperior" Width="1.5" PointX="0.75" PointY="60.75" />
+        <EntityTypeShape EntityType="BDModel.DisenoIndustrial" Width="1.5" PointX="12.75" PointY="96.75" />
+        <EntityTypeShape EntityType="BDModel.DocumentoActividadFortalecimiento" Width="1.5" PointX="3" PointY="125.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoArticulo" Width="1.5" PointX="6" PointY="125.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoCapacitacionInterna" Width="1.5" PointX="9" PointY="122.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoCapacitacionProfesional" Width="1.5" PointX="15" PointY="47.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoColaboracionEvento" Width="1.5" PointX="3" PointY="34.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoColaboracionExterno" Width="1.5" PointX="15" PointY="99.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoComisionInstitucional" Width="1.5" PointX="3" PointY="4.875" />
+        <EntityTypeShape EntityType="BDModel.DocumentoConocimientoSoftware" Width="1.5" PointX="3" PointY="38.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoCursoCentroCapacitacion" Width="1.5" PointX="9" PointY="119.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoCursoContinuo" Width="1.5" PointX="3" PointY="122.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoCursoLibre" Width="1.5" PointX="12" PointY="120.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoCursoNoRemunerado" Width="1.5" PointX="15" PointY="50.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoDesarrolloSoftware" Width="1.5" PointX="15" PointY="106.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoDesignacion" Width="1.5" PointX="3" PointY="119.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoDireccionRangoSuperior" Width="1.5" PointX="3" PointY="41.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoDisenoIndustrial" Width="1.5" PointX="15" PointY="96.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoGradoAcademico" Width="1.5" PointX="12" PointY="117.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoIdioma" Width="1.5" PointX="9" PointY="35.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoJurado" Width="1.5" PointX="6" PointY="129.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoLibro" Width="1.5" PointX="9.75" PointY="39.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoMembresiaConsejos" Width="1.5" PointX="15" PointY="87.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoMembresiaOrganismos" Width="1.5" PointX="9" PointY="116.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoMiembroOrganos" Width="1.5" PointX="6" PointY="121.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoModeloIndustrial" Width="1.5" PointX="12" PointY="45.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoModeloUtilidad" Width="1.5" PointX="6" PointY="40.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoObraAdministrativa" Width="1.5" PointX="6" PointY="117.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoObraArtistica" Width="1.5" PointX="9" PointY="112.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoObraDidactica" Width="1.5" PointX="6" PointY="113.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoObtencionVegetal" Width="1.5" PointX="12" PointY="48.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoOrganizacionEvento" Width="1.5" PointX="9" PointY="108.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoOtraObraProfesional" Width="1.5" PointX="3" PointY="115.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoParticipacionAIR" Width="1.5" PointX="3" PointY="111.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoParticipacionComision" Width="1.5" PointX="12" PointY="114.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoParticipacionCongreso" Width="1.5" PointX="15" PointY="93.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoParticipacionDeportiva" Width="1.5" PointX="15" PointY="102.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoParticipacionDestacada" Width="1.5" PointX="12" PointY="111.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoPatente" Width="1.5" PointX="12" PointY="108.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoPonenciaCongreso" Width="1.5" PointX="6" PointY="109.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoPremioNacional" Width="1.5" PointX="9" PointY="43.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoProyectoGraduacion" Width="1.5" PointX="12" PointY="105.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoProyectoInvestigacion" Width="1.5" PointX="6" PointY="105.375" />
+        <EntityTypeShape EntityType="BDModel.DocumentoPublicacion" Width="1.5" PointX="3" PointY="44.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoResponsableUnidad" Width="1.5" PointX="9" PointY="105.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoSecreto" Width="1.5" PointX="9" PointY="46.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoSistemaCI" Width="1.5" PointX="3" PointY="51.5" />
+        <EntityTypeShape EntityType="BDModel.DocumentoTrabajoNoRemunerado" Width="1.5" PointX="6" PointY="43.5" />
+        <EntityTypeShape EntityType="BDModel.GradoAcademico" Width="1.5" PointX="9.75" PointY="93.75" />
+        <EntityTypeShape EntityType="BDModel.Idioma" Width="1.5" PointX="6.75" PointY="54.75" />
+        <EntityTypeShape EntityType="BDModel.Jurado" Width="1.5" PointX="3.75" PointY="93.75" />
+        <EntityTypeShape EntityType="BDModel.Libro" Width="1.5" PointX="7.5" PointY="50.25" />
+        <EntityTypeShape EntityType="BDModel.MembresiaConsejos" Width="1.5" PointX="12.75" PointY="87.625" />
+        <EntityTypeShape EntityType="BDModel.MembresiaOrganismos" Width="1.5" PointX="6.75" PointY="99.75" />
+        <EntityTypeShape EntityType="BDModel.MiembroOrganos" Width="1.5" PointX="3.75" PointY="90.75" />
+        <EntityTypeShape EntityType="BDModel.ModeloIndustrial" Width="1.5" PointX="9.75" PointY="57.75" />
+        <EntityTypeShape EntityType="BDModel.ModeloUtilidad" Width="1.5" PointX="3.75" PointY="47.5" />
+        <EntityTypeShape EntityType="BDModel.ObraAdministrativaDesarrollo" Width="1.5" PointX="3.75" PointY="103.375" />
+        <EntityTypeShape EntityType="BDModel.ObraArtistica" Width="1.5" PointX="6.75" PointY="90.5" />
+        <EntityTypeShape EntityType="BDModel.ObraDidactica" Width="1.5" PointX="3.75" PointY="87.5" />
+        <EntityTypeShape EntityType="BDModel.ObtencionVegetal" Width="1.5" PointX="9.75" PointY="54.75" />
+        <EntityTypeShape EntityType="BDModel.OrganizacionEvento" Width="1.5" PointX="6.75" PointY="93.5" />
+        <EntityTypeShape EntityType="BDModel.OtraObraProfesional" Width="1.5" PointX="0.75" PointY="97.375" />
+        <EntityTypeShape EntityType="BDModel.Pais" Width="1.5" PointX="5.25" PointY="50.625" />
+        <EntityTypeShape EntityType="BDModel.ParticipacionAIR" Width="1.5" PointX="0.75" PointY="84.75" />
+        <EntityTypeShape EntityType="BDModel.ParticipacionComision" Width="1.5" PointX="9.75" PointY="90.75" />
+        <EntityTypeShape EntityType="BDModel.ParticipacionCongreso" Width="1.5" PointX="12.75" PointY="93.75" />
+        <EntityTypeShape EntityType="BDModel.ParticipacionDeportiva" Width="1.5" PointX="12.75" PointY="102.5" />
+        <EntityTypeShape EntityType="BDModel.ParticipacionDestacada" Width="1.5" PointX="9.75" PointY="87.375" />
+        <EntityTypeShape EntityType="BDModel.Patente" Width="1.5" PointX="9.75" PointY="102.625" />
+        <EntityTypeShape EntityType="BDModel.Persona" Width="1.5" PointX="0.75" PointY="67.375" />
+        <EntityTypeShape EntityType="BDModel.PersonaXActividadFortalecimiento" Width="1.5" PointX="3" PointY="81.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXArticulo" Width="1.5" PointX="6" PointY="84.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCapacitacionInterna" Width="1.5" PointX="9" PointY="84.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCapacitacionProfesional" Width="1.5" PointX="15" PointY="66.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCapitulo" Width="1.5" PointX="12" PointY="63.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCita" Width="1.5" PointX="15" PointY="63.5" />
+        <EntityTypeShape EntityType="BDModel.PersonaXColaboracionEvento" Width="1.5" PointX="3" PointY="66.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXColaboracionExterno" Width="1.5" PointX="15" PointY="81.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXConocimientoSoftware" Width="1.5" PointX="3" PointY="69.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCursoCentroCapacitacion" Width="1.5" PointX="9" PointY="69.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCursoContinuo" Width="1.5" PointX="3" PointY="78.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCursoLibre" Width="1.5" PointX="12" PointY="81.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXCursoNoRemunerado" Width="1.5" PointX="15" PointY="60.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXDesarrolloSoftware" Width="1.5" PointX="15" PointY="72.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXDesignacion" Width="1.5" PointX="3" PointY="75.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXDireccionRangoSuperior" Width="1.5" PointX="3" PointY="60.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXDisenoIndustrial" Width="1.5" PointX="15" PointY="78.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXGradoAcademico" Width="1.5" PointX="12" PointY="75.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXIdioma" Width="1.5" PointX="9" PointY="63.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXJurado" Width="1.5" PointX="6" PointY="72.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXMembresiaConsejos" Width="1.5" PointX="15" PointY="69.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXMembresiaOrganismos" Width="1.5" PointX="9" PointY="81.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXMiembroOrganos" Width="1.5" PointX="6" PointY="69.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXModeloIndustrial" Width="1.5" PointX="12" PointY="60.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXModeloUtilidad" Width="1.5" PointX="6" PointY="63.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXObraAdministrativaDesarrollo" Width="1.5" PointX="6" PointY="81.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXObraArtistica" Width="1.5" PointX="9" PointY="72.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXObraDidactica" Width="1.5" PointX="6" PointY="66.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXObtencionVegetal" Width="1.5" PointX="12" PointY="66.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXOrganizacionEvento" Width="1.5" PointX="9" PointY="75.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXOtraObraProfesional" Width="1.5" PointX="3" PointY="84.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXParticipacionAIR" Width="1.5" PointX="3" PointY="72.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXParticipacionComision" Width="1.5" PointX="12" PointY="72.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXParticipacionCongreso" Width="1.5" PointX="15" PointY="75.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXParticipacionDeportiva" Width="1.5" PointX="15" PointY="84.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXParticipacionDestacada" Width="1.5" PointX="12" PointY="69.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXPatente" Width="1.5" PointX="12" PointY="84.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXPonenciaCongreso" Width="1.5" PointX="6" PointY="75.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXPremioNacional" Width="1.5" PointX="9" PointY="66.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXProyectoGraduacion" Width="1.5" PointX="12" PointY="78.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXProyectoInvestigacion" Width="1.5" PointX="6" PointY="78.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXPublicacion" Width="1.5" PointX="3" PointY="57.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXResponsableUnidad" Width="1.5" PointX="9" PointY="78.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXSecreto" Width="1.5" PointX="9" PointY="60.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXSistemaCI" Width="1.5" PointX="3" PointY="63.625" />
+        <EntityTypeShape EntityType="BDModel.PersonaXTrabajoNoRemunerado" Width="1.5" PointX="6" PointY="60.625" />
+        <EntityTypeShape EntityType="BDModel.PonenciaCongreso" Width="1.5" PointX="3.75" PointY="96.625" />
+        <EntityTypeShape EntityType="BDModel.PremioNacional" Width="1.5" PointX="6.75" PointY="46.625" />
+        <EntityTypeShape EntityType="BDModel.ProyectoGraduacionGalardonado" Width="1.5" PointX="9.75" PointY="96.625" />
+        <EntityTypeShape EntityType="BDModel.ProyectoInvestigacion" Width="1.5" PointX="3.75" PointY="99.5" />
+        <EntityTypeShape EntityType="BDModel.Publicacion" Width="1.5" PointX="0.75" PointY="57.5" />
+        <EntityTypeShape EntityType="BDModel.ResponsableUnidad" Width="1.5" PointX="6.75" PointY="96.75" />
+        <EntityTypeShape EntityType="BDModel.Secreto" Width="1.5" PointX="6.75" PointY="57.75" />
+        <EntityTypeShape EntityType="BDModel.SistemaCI" Width="1.5" PointX="0.75" PointY="63.75" />
+        <EntityTypeShape EntityType="BDModel.TipoObraAdmi" Width="1.5" PointX="1.5" PointY="103.75" />
+        <EntityTypeShape EntityType="BDModel.TipoObraProfesional" Width="1.5" PointX="1.5" PointY="100.75" />
+        <EntityTypeShape EntityType="BDModel.TrabajoNoRemunerado" Width="1.5" PointX="3.75" PointY="54.625" />
+        <AssociationConnector Association="BDModel.FK_AutorXActividadFortalecimiento_ActividadFortalecimiento" />
+        <AssociationConnector Association="BDModel.FK_DocumentoActividadFortalecimiento_ActividadFortalecimiento" />
+        <AssociationConnector Association="BDModel.FK_PersonaXActividadFortalecimiento_ActividadFortalecimiento" />
+        <AssociationConnector Association="BDModel.FK_Articulo_Pais" />
+        <AssociationConnector Association="BDModel.FK_AutorXArticulo_Articulo" />
+        <AssociationConnector Association="BDModel.FK_DocumentoArticulo_Articulo" />
+        <AssociationConnector Association="BDModel.FK_PersonaXArticulo_Articulo" />
+        <AssociationConnector Association="BDModel.FK_AutorXActividadFortalecimiento_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXArticulo_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXCapitulo_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXColaboracionEvento_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXCursoCentroCapacitacion_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXDesarrolloSoftware_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXObraAdministrativaDesarrollo_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXObraArtistica_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXObraDidactica_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXOrganizacionEvento_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXOtraObraProfesional_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXParticipacionDeportiva_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXParticipacionDestacada_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXPatente_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXPonenciaCongreso_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXProyectoGraduacion_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXProyectoInvestigacion_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXPublicacion_Autor" />
+        <AssociationConnector Association="BDModel.FK_AutorXCapitulo_Capitulo" />
+        <AssociationConnector Association="BDModel.FK_AutorXColaboracionEvento_ColaboracionEvento" />
+        <AssociationConnector Association="BDModel.FK_AutorXCursoCentroCapacitacion_CursoCentroCapacitacion" />
+        <AssociationConnector Association="BDModel.FK_AutorXDesarrolloSoftware_DesarrolloSoftware" />
+        <AssociationConnector Association="BDModel.FK_AutorXObraAdministrativaDesarrollo_ObraAdministrativaDesarrollo" />
+        <AssociationConnector Association="BDModel.FK_AutorXObraArtistica_ObraArtistica" />
+        <AssociationConnector Association="BDModel.FK_AutorXObraDidactica_ObraDidactica" />
+        <AssociationConnector Association="BDModel.FK_AutorXOrganizacionEvento_OrganizacionEvento" />
+        <AssociationConnector Association="BDModel.FK_AutorXOtraObraProfesional_OtraObraProfesional" />
+        <AssociationConnector Association="BDModel.FK_AutorXParticipacionDeportiva_ParticipacionDeportiva" />
+        <AssociationConnector Association="BDModel.FK_AutorXParticipacionDestacada_ParticipacionDestacada" />
+        <AssociationConnector Association="BDModel.FK_AutorXPatente_Patente" />
+        <AssociationConnector Association="BDModel.FK_AutorXPonenciaCongreso_PonenciaCongreso" />
+        <AssociationConnector Association="BDModel.FK_AutorXProyectoGraduacion_ProyectoGraduacionGalardonado" />
+        <AssociationConnector Association="BDModel.FK_AutorXProyectoInvestigacion_ProyectoInvestigacion" />
+        <AssociationConnector Association="BDModel.FK_AutorXPublicacion_Publicacion" />
+        <AssociationConnector Association="BDModel.FK_DocumentoCapacitacionInterna_CapacitacionInterna" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCapacitacionInterna_CapacitacionInterna" />
+        <AssociationConnector Association="BDModel.FK_DocumentoCapacitacionProfesional_CapacitacionProfesional" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCapacitacionProfesional_CapacitacionProfesional" />
+        <AssociationConnector Association="BDModel.FK_Capitulo_Libro" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCapitulo_Capitulo" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCita_CitaDeAtestados" />
+        <AssociationConnector Association="BDModel.FK_DocumentoColaboracionEvento_ColaboracionEvento" />
+        <AssociationConnector Association="BDModel.FK_PersonaXColaboracionEvento_ColaboracionEvento" />
+        <AssociationConnector Association="BDModel.FK_DocumentoColaboracionExterno_ColaboracionExterno" />
+        <AssociationConnector Association="BDModel.FK_PersonaXColaboracionExterno_ColaboracionExterno" />
+        <AssociationConnector Association="BDModel.FK_DocumentoComisionInstitucional_ComisionInstitucional" />
+        <AssociationConnector Association="BDModel.FK_DocumentoConocimientoSoftware_ConocimientoSoftware" />
+        <AssociationConnector Association="BDModel.FK_PersonaXConocimientoSoftware_ConocimientoSoftware" />
+        <AssociationConnector Association="BDModel.FK_DocumentoCursoCentroCapacitacion_CursoCentroCapacitacion" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoCentroCapacitacion_CursoCentroCapacitacion" />
+        <AssociationConnector Association="BDModel.FK_DocumentoCursoContinuo_CursoContinuo" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoContinuo_CursoContinuo" />
+        <AssociationConnector Association="BDModel.FK_DocumentoCursoLibre_CursoLibre" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoLibre_CursoLibre" />
+        <AssociationConnector Association="BDModel.FK_DocumentoCursoNoRemunerado_CursoNoRemunerado" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoNoRemunerado_CursoNoRemunerado" />
+        <AssociationConnector Association="BDModel.FK_DocumentoDesarrolloSoftware_DesarrolloSoftware" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDesarrolloSoftware_DesarrolloSoftware" />
+        <AssociationConnector Association="BDModel.FK_DocumentoDesignacion_Designacion" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDesignacion_Designacion" />
+        <AssociationConnector Association="BDModel.FK_DocumentoDireccionRangoSuperior_DireccionRangoSuperior" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDireccionRangoSuperior_DireccionRangoSuperior" />
+        <AssociationConnector Association="BDModel.FK_DocumentoDisenoIndustrial_DisenoIndustrial" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDisenoIndustrial_DisenoIndustrial" />
+        <AssociationConnector Association="BDModel.FK_DocumentoGradoAcademico_GradoAcademico" />
+        <AssociationConnector Association="BDModel.FK_DocumentoIdioma_Idioma" />
+        <AssociationConnector Association="BDModel.FK_DocumentoJurado_Jurado" />
+        <AssociationConnector Association="BDModel.FK_DocumentoLibro_Libro" />
+        <AssociationConnector Association="BDModel.FK_DocumentoMembresiaConsejos_MembresiaConsejos" />
+        <AssociationConnector Association="BDModel.FK_DocumentoMembresiaOrganismos_MembresiaOrganismos" />
+        <AssociationConnector Association="BDModel.FK_DocumentoMiembroOrganos_MiembroOrganos" />
+        <AssociationConnector Association="BDModel.FK_DocumentoModeloIndustrial_ModeloIndustrial" />
+        <AssociationConnector Association="BDModel.FK_DocumentoModeloUtilidad_ModeloUtilidad" />
+        <AssociationConnector Association="BDModel.FK_DocumentoObraAdministrativa_ObraAdministrativa" />
+        <AssociationConnector Association="BDModel.FK_DocumentoObraArtistica_ObraArtistica" />
+        <AssociationConnector Association="BDModel.FK_DocumentoObraDidactica_ObraDidactica" />
+        <AssociationConnector Association="BDModel.FK_DocumentoObtencionVegetal_ObtencionVegetal" />
+        <AssociationConnector Association="BDModel.FK_DocumentoOrganizacionEvento_OrganizacionEvento" />
+        <AssociationConnector Association="BDModel.FK_DocumentoOtraObraProfesional_OtraObraProfesional" />
+        <AssociationConnector Association="BDModel.FK_DocumentoParticipacionAIR_ParticipacionAIR" />
+        <AssociationConnector Association="BDModel.FK_DocumentoParticipacionComision_ParticipacionComision" />
+        <AssociationConnector Association="BDModel.FK_DocumentoParticipacionCongreso_ParticipacionCongreso" />
+        <AssociationConnector Association="BDModel.FK_DocumentoParticipacionDeportiva_ParticipacionDeportiva" />
+        <AssociationConnector Association="BDModel.FK_DocumentoParticipacionDestacada_ParticipacionDestacada" />
+        <AssociationConnector Association="BDModel.FK_DocumentoPatente_Patente" />
+        <AssociationConnector Association="BDModel.FK_DocumentoPonenciaCongreso_PonenciaCongreso" />
+        <AssociationConnector Association="BDModel.FK_DocumentoPremioNacional_PremioNacional" />
+        <AssociationConnector Association="BDModel.FK_DocumentoProyectoGraduacion_ProyectoGraduacion" />
+        <AssociationConnector Association="BDModel.FK_DocumentoProyectoInvestigacion_ProyectoInvestigacion" />
+        <AssociationConnector Association="BDModel.FK_DocumentoPublicacion_Publicacion" />
+        <AssociationConnector Association="BDModel.FK_DocumentoResponsableUnidad_ResponsableUnidad" />
+        <AssociationConnector Association="BDModel.FK_DocumentoSecreto_Secreto" />
+        <AssociationConnector Association="BDModel.FK_DocumentoSistemaCI_SistemaCI" />
+        <AssociationConnector Association="BDModel.FK_DocumentoTrabajoNoRemunerado_TrabajoNoRemunerado" />
+        <AssociationConnector Association="BDModel.FK_PersonaXGradoAcademico_GradoAcademico" />
+        <AssociationConnector Association="BDModel.FK_PersonaXIdioma_Idioma" />
+        <AssociationConnector Association="BDModel.FK_PersonaXJurado_Jurado" />
+        <AssociationConnector Association="BDModel.FK_Libro_Pais" />
+        <AssociationConnector Association="BDModel.FK_PersonaXMembresiaConsejos_MembresiaConsejos" />
+        <AssociationConnector Association="BDModel.FK_PersonaXMembresiaOrganismos_MembresiaOrganismos" />
+        <AssociationConnector Association="BDModel.FK_PersonaXMiembroOrganos_MiembroOrganos" />
+        <AssociationConnector Association="BDModel.FK_PersonaXModeloIndustrial_ModeloIndustrial" />
+        <AssociationConnector Association="BDModel.FK_PersonaXModeloUtilidad_ModeloUtilidad" />
+        <AssociationConnector Association="BDModel.FK_ObraAdministrativaDesarrollo_TipoObraAdmi" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObraAdministrativaDesarrollo_ObraAdministrativaDesarrollo" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObraArtistica_ObraArtistica" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObraDidactica_ObraDidactica" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObtencionVegetal_ObtencionVegetal" />
+        <AssociationConnector Association="BDModel.FK_PersonaXOrganizacionEvento_OrganizacionEvento" />
+        <AssociationConnector Association="BDModel.FK_OtraObraProfesional_TipoObraProfesional" />
+        <AssociationConnector Association="BDModel.FK_PersonaXOtraObraProfesional_OtraObraProfesional" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionAIR_ParticipacionAIR" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionComision_ParticipacionComision" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionCongreso_ParticipacionCongreso" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionDeportiva_ParticipacionDeportiva" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionDestacada_ParticipacionDestacada" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPatente_Patente" />
+        <AssociationConnector Association="BDModel.FK_PersonaXActividadFortalecimiento_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXArticulo_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCapacitacionInterna_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCapacitacionProfesional_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCapitulo_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCita_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXColaboracionEvento_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXColaboracionExterno_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXConocimientoSoftware_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoCentroCapacitacion_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoContinuo_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoLibre_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXCursoNoRemunerado_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDesarrolloSoftware_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDesignacion_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDireccionRangoSuperior_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXDisenoIndustrial_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXGradoAcademico_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXIdioma_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXJurado_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXMembresiaConsejos_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXMembresiaOrganismos_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXMiembroOrganos_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXModeloIndustrial_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXModeloUtilidad_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObraAdministrativaDesarrollo_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObraArtistica_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObraDidactica_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXObtencionVegetal_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXOrganizacionEvento_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXOtraObraProfesional_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionAIR_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionComision_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionCongreso_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionDeportiva_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXParticipacionDestacada_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPatente_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPonenciaCongreso_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPremioNacional_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXProyectoGraduacion_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXProyectoInvestigacion_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPublicacion_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXResponsableUnidad_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXSecreto_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXSistemaCI_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXTrabajoNoRemunerado_Persona" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPonenciaCongreso_PonenciaCongreso" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPremioNacional_PremioNacional" />
+        <AssociationConnector Association="BDModel.FK_PersonaXProyectoGraduacion_ProyectoGraduacionGalardonado" />
+        <AssociationConnector Association="BDModel.FK_PersonaXProyectoInvestigacion_ProyectoInvestigacion" />
+        <AssociationConnector Association="BDModel.FK_PersonaXPublicacion_Publicacion" />
+        <AssociationConnector Association="BDModel.FK_PersonaXResponsableUnidad_ResponsableUnidad" />
+        <AssociationConnector Association="BDModel.FK_PersonaXSecreto_Secreto" />
+        <AssociationConnector Association="BDModel.FK_PersonaXSistemaCI_SistemaCI" />
+        <AssociationConnector Association="BDModel.FK_PersonaXTrabajoNoRemunerado_TrabajoNoRemunerado" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

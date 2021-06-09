@@ -1,0 +1,44 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Negocios.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Negocios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Negocios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\AutoMapper.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Datos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Objetos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Utilitarios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\System.ValueTuple.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\EntityFramework.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Datos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Datos.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Objetos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\AutoMapper.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\AutoMapper.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\System.ValueTuple.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\EntityFramework.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.csprojAssemblyReference.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.csproj.CopyComplete
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Negocios.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Negocios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Negocios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\AutoMapper.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Datos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Objetos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Utilitarios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\System.ValueTuple.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\EntityFramework.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Datos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Datos.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Objetos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\AutoMapper.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\AutoMapper.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\System.ValueTuple.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\bin\Debug\EntityFramework.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.csproj.CopyComplete
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Negocios\obj\Debug\ExpedienteDigital.Negocios.pdb

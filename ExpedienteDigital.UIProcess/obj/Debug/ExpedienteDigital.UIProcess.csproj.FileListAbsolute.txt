@@ -1,0 +1,19 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.UIProcess.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.UIProcess.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.UIProcess.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.Objetos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.Objetos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.csproj.CopyComplete
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.UIProcess.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.UIProcess.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.UIProcess.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.Objetos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\bin\Debug\ExpedienteDigital.Objetos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.csproj.CopyComplete
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UIProcess\obj\Debug\ExpedienteDigital.UIProcess.pdb

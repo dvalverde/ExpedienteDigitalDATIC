@@ -1,0 +1,274 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UI.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UI.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UI.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Antlr3.Runtime.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Newtonsoft.Json.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Owin.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Datos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Negocios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Objetos.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UIProcess.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Utilitarios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\RestSharp.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Buffers.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Memory.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Numerics.Vectors.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Helpers.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Mvc.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Optimization.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Razor.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\WebGrease.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\AutoMapper.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ValueTuple.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Datos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Datos.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Negocios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Negocios.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Objetos.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UIProcess.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UIProcess.dll.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Utilitarios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\RestSharp.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Buffers.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Memory.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Numerics.Vectors.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Helpers.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Mvc.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Optimization.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Razor.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Newtonsoft.Json.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\Antlr3.Runtime.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\AutoMapper.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\AutoMapper.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ValueTuple.xml
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Razor.resources.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.csprojAssemblyReference.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.csproj.CopyComplete
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UI.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UI.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UI.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Win32.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\netstandard.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.AppContext.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Collections.Concurrent.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Collections.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Collections.NonGeneric.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Collections.Specialized.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ComponentModel.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ComponentModel.EventBasedAsync.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ComponentModel.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ComponentModel.TypeConverter.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Console.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Data.Common.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.Contracts.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.Debug.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.FileVersionInfo.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.Process.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.StackTrace.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.Tools.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.TraceSource.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.Tracing.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Drawing.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Dynamic.Runtime.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Globalization.Calendars.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Globalization.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Globalization.Extensions.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.Compression.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.Compression.ZipFile.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.FileSystem.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.FileSystem.DriveInfo.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.FileSystem.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.FileSystem.Watcher.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.IsolatedStorage.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.MemoryMappedFiles.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.Pipes.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.IO.UnmanagedMemoryStream.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Linq.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Linq.Expressions.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Linq.Parallel.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Linq.Queryable.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Http.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.NameResolution.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.NetworkInformation.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Ping.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Requests.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Security.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Sockets.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.WebHeaderCollection.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.WebSockets.Client.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.WebSockets.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ObjectModel.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Reflection.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Reflection.Extensions.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Reflection.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Resources.Reader.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Resources.ResourceManager.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Resources.Writer.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.Extensions.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.Handles.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.InteropServices.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.Numerics.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.Serialization.Formatters.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.Serialization.Json.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.Serialization.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.Serialization.Xml.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.Claims.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.Cryptography.Algorithms.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.Cryptography.Csp.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.Cryptography.Encoding.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.Cryptography.Primitives.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.Cryptography.X509Certificates.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.Principal.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Security.SecureString.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Text.Encoding.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Text.Encoding.Extensions.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Text.RegularExpressions.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Threading.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Threading.Overlapped.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Threading.Tasks.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Threading.Tasks.Parallel.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Threading.Thread.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Threading.ThreadPool.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Threading.Timer.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.ValueTuple.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Xml.ReaderWriter.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Xml.XDocument.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Xml.XmlDocument.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Xml.XmlSerializer.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Xml.XPath.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Xml.XPath.XDocument.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Antlr3.Runtime.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.SqlServer.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Datos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Negocios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Objetos.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UIProcess.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Utilitarios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Google.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Newtonsoft.Json.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Owin.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\RestSharp.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Buffers.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Memory.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Http.Formatting.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Numerics.Vectors.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Helpers.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.WebHost.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Mvc.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Optimization.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Razor.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Deployment.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Razor.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\WebGrease.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\AutoMapper.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Datos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Datos.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Negocios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Negocios.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Objetos.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UIProcess.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.UIProcess.dll.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\ExpedienteDigital.Utilitarios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\EntityFramework.SqlServer.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Google.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\RestSharp.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Buffers.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Memory.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Net.Http.Formatting.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Numerics.Vectors.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Http.WebHost.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Helpers.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Mvc.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Optimization.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.Razor.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Deployment.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\System.Web.WebPages.Razor.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Newtonsoft.Json.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\Antlr3.Runtime.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\AutoMapper.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\AutoMapper.xml
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Helpers.resources.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Mvc.resources.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Optimization.resources.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.Razor.resources.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.WebPages.resources.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.csproj.CopyComplete
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.UI\obj\Debug\ExpedienteDigital.UI.pdb

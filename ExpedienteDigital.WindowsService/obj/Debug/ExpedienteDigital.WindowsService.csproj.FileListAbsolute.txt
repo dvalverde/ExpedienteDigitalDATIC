@@ -1,0 +1,24 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.WindowsService.exe.config
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.WindowsService.exe
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.WindowsService.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.Utilitarios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csprojAssemblyReference.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.ProjectInstaller.resources
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csproj.GenerateResource.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csproj.CopyComplete
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.exe
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.WindowsService.exe.config
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.WindowsService.exe
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.WindowsService.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.Utilitarios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.ProjectInstaller.resources
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csproj.GenerateResource.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.csproj.CopyComplete
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.exe
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.WindowsService\obj\Debug\ExpedienteDigital.WindowsService.pdb

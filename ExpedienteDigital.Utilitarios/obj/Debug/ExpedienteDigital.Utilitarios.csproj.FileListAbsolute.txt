@@ -1,0 +1,16 @@
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\bin\Debug\ExpedienteDigital.Utilitarios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.csprojAssemblyReference.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.Mensajes.Mensajes.resources
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.csproj.GenerateResource.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.dll
+C:\Users\ebrenes\Desktop\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\bin\Debug\ExpedienteDigital.Utilitarios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\bin\Debug\ExpedienteDigital.Utilitarios.pdb
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.csprojAssemblyReference.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.Mensajes.Mensajes.resources
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.csproj.GenerateResource.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.csproj.CoreCompileInputs.cache
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.dll
+D:\archivos\Proyecto\tec digital\ExpedienteDigital\ExpedienteDigital.Utilitarios\obj\Debug\ExpedienteDigital.Utilitarios.pdb
